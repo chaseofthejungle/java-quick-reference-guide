@@ -23,6 +23,7 @@
 17. [Reflection](#reflection)
 18. [Annotations](#annotations)
 19. [Java Database Connectivity (JDBC)](#jdbc)
+20. [Supplemental Resource](#supplemental)
   
 <hr />
 
@@ -124,3 +125,11 @@
 <hr />
 
 ## 19. <a name="jdbc">Java Database Connectivity (JDBC)</a>
+  
+<hr />
+  
+## 20. <a name="supplemental">Supplemental Resource</a>
+  
+[Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)
+  
+<hr />
