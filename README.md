@@ -84,6 +84,31 @@
 
 ## 15. <a name="time">Time API</a>
 
+<strong>Retrieving present values...</strong>
+  
+* Present date: LocalDate date = LocalDate.now();
+* Present time: LocalTime time = LocalTime.now();
+* Present date and time: LocalDateTime dateTime = LocalDateTime.now();
+* Present day (of week): DayOfWeek dayOfWeek = date.getDayOfWeek();
+  
+<strong>Retrieving more specific values...</strong>
+  
+* A specific date: LocalDate date = LocalDate.of(2024, 10, 6);
+* Period between dates: Period period = Period.between(date1, date2);
+* Duration between times: Duration duration = Duration.between(time1, time2);
+
+<strong>Performing mathematical operations...</strong>
+
+* Adding days to a date: LocalDate future = date.plusDays(5);
+* Adding years to a date: LocalDate future = date.plusYears(4);
+* Subtracting months from a date: LocalDate past = date.minusMonths(2);
+
+<strong>Parsing, formatting, and conditional logic...</strong>
+
+* Parsing a date (from String data): LocalDate date = LocalDate.parse("2020-02-09");
+* Formatting a date (from String data): String formatted = date.format(DateTimeFormatter.ISO_DATE);
+* Evaluate if a year is a leap year: boolean isLeapYear = date.isLeapYear();
+  
 <hr />
 
 ## 16. <a name="networking">Networking</a>
