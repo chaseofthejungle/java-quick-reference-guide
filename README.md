@@ -1,8 +1,8 @@
 # Java Quick Reference Guide
   
-**Description/Overview:** A brief overview of common use Java methods, boilerplate code, and more.
+**Description/Overview:** A lookup 'sheet' of common use Java methods, boilerplate code, and more. For more advanced data structures guidance/solutions and clean coding advice, see the [Supplemental Resources section](#supplemental).
   
-#### Table of Contents (guide will cover the following topics)
+#### Table of Contents
 
 1. [Syntax and Data Types](#syntax)
 2. [Mathematical and Logical Operators](#math)
@@ -128,7 +128,7 @@
   
 <hr />
   
-## 20. <a name="supplemental">Supplemental Resource</a>
+## 20. <a name="supplemental">Supplemental Resources</a>
   
 [Java Clean Coding Guide](https://github.com/chaseofthejungle/java-clean-coding-guide)  
 [Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)
