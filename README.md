@@ -67,7 +67,12 @@
 <hr />
 
 ## 10. <a name="generics">Generics</a>
-
+  
+* Generic class: `public class ClassName<T> { }`
+* Generic method: `public <T> void methodName(T parameter) { }`
+* Bounded type parameter (with generic method): `public <T extends Number> void methodName(T parameter) { }`
+* Wildcard: `public void methodName(List<?> list) { }`
+  
 <hr />
 
 ## 11. <a name="file">File Input/Output (I/O)</a>
