@@ -138,7 +138,8 @@
   
 ## 20. <a name="supplemental">Supplemental Resources</a>
   
-[Java Clean Coding Guide](https://github.com/chaseofthejungle/java-clean-coding-guide)  
-[Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)
-  
+* *[Java Clean Coding Guide](https://github.com/chaseofthejungle/java-clean-coding-guide)*  
+* *[Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)*
+* *[Official Java Website](https://www.java.com/en/)*
+   
 <hr />
