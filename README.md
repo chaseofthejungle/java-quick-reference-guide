@@ -29,21 +29,31 @@
 
 ## 1. <a name="syntax">Syntax and Data Types</a>
 
+(TODO)
+
 <hr />
 
 ## 2. <a name="math">Mathematical and Logical Operators</a>
+
+(TODO)
 
 <hr />
 
 ## 3. <a name="control">Control Flow/Decision Structures</a>
 
+(TODO)
+
 <hr />
 
 ## 4. <a name="arrays">Arrays</a>
 
+(TODO)
+
 <hr />
 
 ## 5. <a name="strings">Strings</a>
+
+(TODO)
 
 <hr />
 
@@ -56,13 +66,19 @@
 
 ## 7. <a name="oop">Object-Oriented Programming (OOP) Principles</a>
 
+(TODO)
+
 <hr />
 
 ## 8. <a name="exceptions">Exception Handling</a>
 
+(TODO)
+
 <hr />
 
 ## 9. <a name="jcf">Java Collections Framework (JCF)</a>
+
+(TODO)
 
 <hr />
 
@@ -77,17 +93,25 @@
 
 ## 11. <a name="file">File Input/Output (I/O)</a>
 
+(TODO)
+
 <hr />
 
 ## 12. <a name="multithreading">Multithreading</a>
+
+(TODO)
 
 <hr />
 
 ## 13. <a name="lambdas">Lambda Expressions and Functional Interfaces</a>
 
+(TODO)
+
 <hr />
 
 ## 14. <a name="streams">Stream API</a>
+
+(TODO)
 
 <hr />
 
@@ -122,18 +146,26 @@
 
 ## 16. <a name="networking">Networking</a>
 
+(TODO)
+
 <hr />
 
 ## 17. <a name="reflection">Reflection</a>
+
+(TODO)
 
 <hr />
 
 ## 18. <a name="annotations">Annotations</a>
 
+(TODO)
+
 <hr />
 
 ## 19. <a name="jdbc">Java Database Connectivity (JDBC)</a>
-  
+
+(TODO)
+
 <hr />
   
 ## 20. <a name="supplemental">Supplemental Resources</a>
